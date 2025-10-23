@@ -1,4 +1,4 @@
-import Paragraph from "./paragraph";
+import { Paragraph } from "./paragraph";
 
 export default class HTMLParagraph implements Paragraph{
     public infoJson: string

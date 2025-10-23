@@ -1,3 +1,3 @@
-export default interface Quote {
+export interface Quote {
     translate(infoJSON: string): Quote;
 }

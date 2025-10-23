@@ -1,3 +1,3 @@
-export default interface Paragraph {
+export interface Paragraph {
     translate(infoJSON: string): Paragraph;
 }

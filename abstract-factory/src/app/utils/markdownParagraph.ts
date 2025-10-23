@@ -1,4 +1,4 @@
-import Paragraph from "./paragraph";
+import { Paragraph } from "./paragraph";
 
 export default class MarkdownParagraph implements Paragraph{
     public infoJson: string

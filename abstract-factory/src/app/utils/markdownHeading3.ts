@@ -1,4 +1,4 @@
-import Heading3 from "./heading3"
+import { Heading3 } from "./heading3"
 
 export default class MarkdownHeading3 implements Heading3{
     public infoJson: string
